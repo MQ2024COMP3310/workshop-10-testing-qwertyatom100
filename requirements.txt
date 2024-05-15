@@ -3,3 +3,5 @@ flask-login==0.6.3
 flask-sqlalchemy==3.1.1
 
 hahaha ive now edited this hahaha im so funny
+
+dude my bf died
